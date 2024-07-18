@@ -125,3 +125,5 @@
 /Users/ankurapte/Documents/Ankur/CostEstimator/obj/Debug/net8.0/CostEstimator.pdb
 /Users/ankurapte/Documents/Ankur/CostEstimator/obj/Debug/net8.0/CostEstimator.genruntimeconfig.cache
 /Users/ankurapte/Documents/Ankur/CostEstimator/obj/Debug/net8.0/ref/CostEstimator.dll
+/Users/ankurapte/Documents/Ankur/CostEstimator/bin/Debug/net8.0/dotnet-ef.dll
+/Users/ankurapte/Documents/Ankur/CostEstimator/bin/Debug/net8.0/Newtonsoft.Json.dll
