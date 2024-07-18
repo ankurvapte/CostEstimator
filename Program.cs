@@ -16,7 +16,7 @@ if (!app.Environment.IsDevelopment())
 }
 
 builder.Services.AddDbContext<CostEstimatorDataContext>(options=>{
-    options.UseMySQL(builder.Configuration.GetConnectionString(""))
+    options.UseMySQL(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
 
 app.UseHttpsRedirection();
