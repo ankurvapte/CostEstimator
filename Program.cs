@@ -1,3 +1,5 @@
+using CostEstimator.EFCore.Infrastructure;
+using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -12,6 +14,15 @@ if (!app.Environment.IsDevelopment())
     // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
+
+/*
+builder.Services.AddDbContext<CostEstimatorEfCoreDbContext>(options =>
+{
+    options.UseMySQL(
+        builder.Configuration.GetConnectionString("CostEstimatorEfCoreContext"), 
+        null);
+});
+*/
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
