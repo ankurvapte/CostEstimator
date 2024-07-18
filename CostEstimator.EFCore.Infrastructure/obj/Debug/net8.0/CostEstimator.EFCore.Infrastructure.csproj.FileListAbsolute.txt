@@ -1,0 +1,15 @@
+/Users/ankurapte/Documents/Ankur/CostEstimator/CostEstimator.EFCore.Infrastructure/bin/Debug/net8.0/CostEstimator.EFCore.Infrastructure.deps.json
+/Users/ankurapte/Documents/Ankur/CostEstimator/CostEstimator.EFCore.Infrastructure/bin/Debug/net8.0/CostEstimator.EFCore.Infrastructure.dll
+/Users/ankurapte/Documents/Ankur/CostEstimator/CostEstimator.EFCore.Infrastructure/bin/Debug/net8.0/CostEstimator.EFCore.Infrastructure.pdb
+/Users/ankurapte/Documents/Ankur/CostEstimator/CostEstimator.EFCore.Infrastructure/obj/Debug/net8.0/CostEstimator.EFCore.Infrastructure.csproj.AssemblyReference.cache
+/Users/ankurapte/Documents/Ankur/CostEstimator/CostEstimator.EFCore.Infrastructure/obj/Debug/net8.0/CostEstimator.EFCore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ankurapte/Documents/Ankur/CostEstimator/CostEstimator.EFCore.Infrastructure/obj/Debug/net8.0/CostEstimator.EFCore.Infrastructure.AssemblyInfoInputs.cache
+/Users/ankurapte/Documents/Ankur/CostEstimator/CostEstimator.EFCore.Infrastructure/obj/Debug/net8.0/CostEstimator.EFCore.Infrastructure.AssemblyInfo.cs
+/Users/ankurapte/Documents/Ankur/CostEstimator/CostEstimator.EFCore.Infrastructure/obj/Debug/net8.0/CostEstimator.EFCore.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/ankurapte/Documents/Ankur/CostEstimator/CostEstimator.EFCore.Infrastructure/obj/Debug/net8.0/CostEstimator.EFCore.Infrastructure.sourcelink.json
+/Users/ankurapte/Documents/Ankur/CostEstimator/CostEstimator.EFCore.Infrastructure/obj/Debug/net8.0/CostEstimator.EFCore.Infrastructure.dll
+/Users/ankurapte/Documents/Ankur/CostEstimator/CostEstimator.EFCore.Infrastructure/obj/Debug/net8.0/refint/CostEstimator.EFCore.Infrastructure.dll
+/Users/ankurapte/Documents/Ankur/CostEstimator/CostEstimator.EFCore.Infrastructure/obj/Debug/net8.0/CostEstimator.EFCore.Infrastructure.pdb
+/Users/ankurapte/Documents/Ankur/CostEstimator/CostEstimator.EFCore.Infrastructure/obj/Debug/net8.0/ref/CostEstimator.EFCore.Infrastructure.dll
+/Users/ankurapte/Documents/Ankur/CostEstimator/CostEstimator.EFCore.Infrastructure/bin/Debug/net8.0/CostEstimator.EFCore.Infrastructure.runtimeconfig.json
+/Users/ankurapte/Documents/Ankur/CostEstimator/CostEstimator.EFCore.Infrastructure/obj/Debug/net8.0/CostEstimator.EFCore.Infrastructure.genruntimeconfig.cache
