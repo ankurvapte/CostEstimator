@@ -6,8 +6,9 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddRazorPages();
 
-builder.Services.AddDbContext<CostEstimatorDataContext>(options=>{
-    options.UseMySQL(builder.Configuration.GetConnectionString("DefaultConnection"));
+builder.Services.AddDbContext<CostEstimatorDataContext>(options =>
+{
+    options.UseMySQL(connectionString: builder.Configuration.GetConnectionString("DefaultConnection"));
 });
 
 var app = builder.Build();
